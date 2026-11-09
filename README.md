@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome Metamath
 
 Explore explicit proofs, proof databases and independent verification.
